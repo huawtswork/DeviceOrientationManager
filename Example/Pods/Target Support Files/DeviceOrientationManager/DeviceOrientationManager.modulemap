@@ -1,0 +1,6 @@
+framework module DeviceOrientationManager {
+  umbrella header "DeviceOrientationManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

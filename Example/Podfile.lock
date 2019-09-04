@@ -1,0 +1,16 @@
+PODS:
+  - DeviceOrientationManager (1.0.0)
+
+DEPENDENCIES:
+  - DeviceOrientationManager (from `../`)
+
+EXTERNAL SOURCES:
+  DeviceOrientationManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DeviceOrientationManager: 91e40c8050da3efc3628678595ab05276fc9a97a
+
+PODFILE CHECKSUM: cbe8f73e8790d75b04fffd56ed903f43c6aee0e7
+
+COCOAPODS: 1.7.5
